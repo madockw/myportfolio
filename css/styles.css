@@ -415,4 +415,10 @@ header a{
   .phoneh{
     padding-left: 10px;
   }
+  .filter{
+    background-color: rgb(0,0,0,0.4);
+  }
+  .filcom{
+    opacity: 1;
+  }
 }
