@@ -277,6 +277,9 @@ header a{
     font-size: 30px;
   }
     /* #about */
+    .menber{
+      height: 460px;
+    }
   .mtitle{
     font-size: 30px;
     padding-left: 30px;
@@ -284,6 +287,7 @@ header a{
   }
   .leftdiv{
     width: 50%;
+    height: 450px;
     margin-left: 0;
   }
   .rightdiv h2{
