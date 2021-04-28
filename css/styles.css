@@ -279,6 +279,7 @@ header a{
     /* #about */
     .menber{
       height: 460px;
+      margin-bottom: 0;
     }
   .mtitle{
     font-size: 30px;
@@ -296,6 +297,9 @@ header a{
   }
   .rightdiv p{
     font-size: 12px;
+  }
+  #mail{
+    margin-top: 60px;
   }
   .filcom{
     font-size: 20px;
